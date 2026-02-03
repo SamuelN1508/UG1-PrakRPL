@@ -18,6 +18,8 @@ Nilai ≥ 75 → LULUS
 
 Nilai < 75 → TIDAK LULUS
 
+Contoh Output
+
 ```python
 Masukkan nama           : Andi
 Masukkan umur           : 19
@@ -37,3 +39,4 @@ Jika Nilai tidak valid:
 Nilai tidak valid!
 Nilai harus berada di antara 0 - 100
 ```
+
