@@ -32,11 +32,12 @@ Grade  : B
 Status : LULUS
 ```
 
-Jika Nilai tidak valid:
+### Jika Nilai tidak valid:
 
 ```python
 Nilai tidak valid!
 Nilai harus berada di antara 0 - 100
 ```
+
 
 
